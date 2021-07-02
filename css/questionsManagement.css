@@ -1,0 +1,33 @@
+.manage-add
+{
+	background-image:url('../images/choose.png');
+	background-position: right top;
+	background-repeat:no-repeat;
+	width:15px;
+	height:15px;
+	display:inline-block;
+}
+
+.manage-delete
+{
+	background-image:url('../images/delete.png');
+	background-position: right bottom;
+	background-repeat:no-repeat;
+	width:15px;
+	display:inline-block;
+	height:15px;
+}
+
+.question
+{
+	display:inline;
+	background-image:url('../images/delete_small.png');
+	background-repeat:no-repeat;
+}
+
+.variant
+{
+	outline:1px solid grey;
+	border-radius: 20px;
+	display:inline-block;
+}
