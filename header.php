@@ -10,9 +10,6 @@
 						<li>
 							<a href="./questionsManagement.php">Вопросы по существу тестов</a>
 						</li>
-						<li>
-							<a href="./testRunManagement.php">Состояние тестов</a>
-						</li>
 					</ul>
 				</li>
 			</ul>
