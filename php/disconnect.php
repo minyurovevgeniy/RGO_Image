@@ -1,0 +1,4 @@
+<?
+	$stmt=null;
+	$pdo=null;
+?>
